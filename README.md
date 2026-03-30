@@ -25,6 +25,3 @@ It detects colors using a TCS3200 color sensor and sorts objects using servo mot
 - Industrial automation
 - Object sorting systems
 - Educational projects
-
-## 📌 Author
-Your Name
